@@ -38,7 +38,7 @@ Install from the `Open VSIX gallery` via the `Extensions -> Manage Extensions` m
 
 - Click on `Delete`, or press the `delete`/`backspace` key, to remove the selected tag(s).
 
-- If the checkbox `Sort by use` is checked, the tags will sorted from most used to least used and will appear so in both the manager and in the `Quick Actions` suggestion's menu as shown below. Note that this is a live count that reflects ongoing usage. Thus, entries might swap places too often for certain personality types.
+- If the checkbox `Sort by use` is checked, the tags will be sorted from most used to least used and will appear so in both the manager and in the `Quick Actions` suggestion's menu as shown below. Note that this is a live count that reflects ongoing usage. Thus, entries might swap places too often for certain personality types.
 
 - To remedy this improbable yet potential vexation, it is possible to fix the arrangement of the tags as deemed suitable in order to meliorate the overall wellbeing and, indeed possibly, to ensure the survival itself of one's sanity. This is accomplished by removing the check mark from the checkbox `Sort by use`, which will enable the buttons `Move up` and `Move down`. Proceed at this juncture by selecting those tags that require relocation and click away as desired.
 
