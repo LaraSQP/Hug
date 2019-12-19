@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+
+  <Commands package="guidHugPackage">
+	<Groups>
+	  <Group guid="guidHugPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+		<Parent guid="guidSHLMainMenu" id="IDM_VS_TOOL_MAINMENU"/>
+	  </Group>
+	</Groups>
+	<Buttons>
+	  <Button guid="guidHugPackageCmdSet" id="HugId" priority="0x0100" type="Button">
+		<Parent guid="guidHugPackageCmdSet" id="MyMenuGroup" />
+		<Icon guid="guidImages" id="bmpPic1" />
+		<Strings>
+		  <ButtonText>Hug</ButtonText>
+		</Strings>
+	  </Button>
+	</Buttons>
+
+	<Bitmaps>
+	  <Bitmap guid="guidImages" href="Resources\hug.png" usedList="bmpPic1"/>
+	</Bitmaps>
+  </Commands>
+
+  <Symbols>
+	<!-- This is the package guid. -->
+	<GuidSymbol name="guidHugPackage" value="{900c0f1d-2776-4782-bebd-58b0c49a8207}" />
+
+	<!-- This is the guid used to group the menu commands together -->
+	<GuidSymbol name="guidHugPackageCmdSet" value="{2720e8a1-6147-400a-8289-dd86b59e4887}">
+	  <IDSymbol name="MyMenuGroup" value="0x1020" />
+	  <IDSymbol name="HugId" value="0x0100" />
+	</GuidSymbol>
+
+	<GuidSymbol name="guidImages" value="{8a70bfd7-c80d-416c-a67c-729cac3e384c}" >
+	  <IDSymbol name="bmpPic1" value="1" />
+	</GuidSymbol>
+  </Symbols>
+</CommandTable>
