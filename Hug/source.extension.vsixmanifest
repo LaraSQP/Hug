@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Hug.936df257-423a-4efd-9505-64cae4d3e608" Version="1.0.5" Language="en-US" Publisher="LaraSQP" />
+        <Identity Id="Hug.936df257-423a-4efd-9505-64cae4d3e608" Version="1.0.6" Language="en-US" Publisher="LaraSQP" />
         <DisplayName>Hug</DisplayName>
         <Description xml:space="preserve">Quickly surround selected text with custom tags via 'Quick Actions'</Description>
         <MoreInfo>https://github.com/LaraSQP/Hug</MoreInfo>

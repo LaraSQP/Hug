@@ -28,7 +28,7 @@ Install from the `Open VSIX gallery` via the `Extensions -> Manage Extensions` m
 
 - Once installed, the `Extensions` menu will show the entry ![hug](https://user-images.githubusercontent.com/12540983/71141321-1c44ee00-2257-11ea-9324-098349e769dc.png) `Hug`, as shown below:
 
-![extensions](https://user-images.githubusercontent.com/12540983/71141537-c6bd1100-2257-11ea-9d90-0ba66355c851.png)
+![extensions](https://user-images.githubusercontent.com/12540983/71224366-ff70ef00-2318-11ea-9b72-a90e853b6e17.jpg)
 
 - Clicking on the menu item ![hug](https://user-images.githubusercontent.com/12540983/71141321-1c44ee00-2257-11ea-9324-098349e769dc.png) `Hug`, brings up the `Hug's tag manager` where it is possible to add, delete, and change the position of the tags in the `Quick Actions` suggestion's menu (i.e., the yellow lightbulb).
 
@@ -48,5 +48,5 @@ Install from the `Open VSIX gallery` via the `Extensions -> Manage Extensions` m
 
 ## Limitations
 
-It is safe to assume that **Hug** has some limitations since it has only been tested with `c# solutions` and on just a few of machines.
+It is safe to assume that **Hug** has some limitations since it has been tested on just a few of machines.
   

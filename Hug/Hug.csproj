@@ -50,10 +50,6 @@
   <ItemGroup>
     <Compile Include="HugTags.cs" />
     <Compile Include="_LIGHTBULB\HugSuggestedActionNested.cs" />
-    <Compile Include="_LIGHTBULB\_EDITOR\EditorClassifier.cs" />
-    <Compile Include="_LIGHTBULB\_EDITOR\EditorClassifierClassificationDefinition.cs" />
-    <Compile Include="_LIGHTBULB\_EDITOR\EditorClassifierFormat.cs" />
-    <Compile Include="_LIGHTBULB\_EDITOR\EditorClassifierProvider.cs" />
     <Compile Include="HugCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="HugPackage.cs" />
